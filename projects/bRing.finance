@@ -1,0 +1,14 @@
+Twitter Link: https://twitter.com/BringFinance 
+List of audit links if any:
+Website Link: https://bring.finance/
+Logo (High resolution, preferably in .svg and .png, for application on both white and black backgrounds. Will be shown with rounded borders): https://drive.google.com/file/d/1CD-VyH9u2gIwwvAlx76l_iIIl8TdO-_0/view?usp=sharing
+Current TVL: 
+Chain: BSC, ETH
+Coingecko ID (so your TVL can appear on Coingecko): (https://api.coingecko.com/api/v3/coins/list) https://www.coingecko.com/en/coins/bring-finance 
+Coinmarketcap ID (so your TVL can appear on Coinmarketcap): (https://api.coinmarketcap.com/data-api/v3/map/all?listing_status=active,inactive,untracked&start=1&limit=10000) https://coinmarketcap.com/currencies/bring-finance/ 
+Short Description (to be shown on DefiLlama): bRing is a decentralized cross-chain platform, enabling the multiple tokens’ farming via staking of a single coin.  
+Token address and ticker if any: 0x939d5a13cf0074586a2dcf17bc692b2d3ccdd517 
+Category (Yield/Dexes/Lending/Minting/Assets/Insurance/Options/Indexes/Staking) *Please choose only one: Staking 
+Oracle used (Chainlink/Band/API3/TWAP or any other that you are using):
+forkedFrom (Does your project originate from another project): No
+methodology (what is being counted as tvl, how is tvl being calculated): Just summ 
